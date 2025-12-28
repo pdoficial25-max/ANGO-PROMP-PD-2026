@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of PLATAFORMA ANGO – PROMPT-PD ",
+  "description": "A professional membership platform for AI prompt engineering community, featuring a feed, courses, and resources in a sleek dark interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
